@@ -1,0 +1,201 @@
+{
+    "settings": {
+        "create_mode": "key_then_click",
+        "enable_auto_connect": true,
+        "show_preview": true,
+        "preview_opacity": 0.5,
+        "debug": false,
+        "indicator_color": "#aaaaff",
+        "indicator_size": 80,
+        "indicator_shape": "orb",
+        "table_alternate_color": "#2a2a3f",
+        "hold_delay_ms": 200,
+        "selection_shortcut": "Ctrl+Alt+W",
+        "open_properties_after_create": true,
+        "preset_module_enabled": true,
+        "preset_module_path": "",
+        "window_width": 472,
+        "window_height": 195,
+        "preset_unload_delay_ms": 1500,
+        "node_library_expanded": false,
+        "collapsed_preset_groups": [
+            "SP_Backmap",
+            "SP_Layermap"
+        ],
+        "preset_library_expanded": true
+    },
+    "shortcuts": {
+        "1|left": {
+            "node_uid": "sbs::function::const_float1",
+            "node_name": "Float1",
+            "mouse_button": "left",
+            "shortcut_key": "1"
+        },
+        "1|right": {
+            "node_uid": "sbs::function::get_float1",
+            "node_name": "Get Float1",
+            "mouse_button": "right",
+            "shortcut_key": "1"
+        },
+        "2|left": {
+            "node_uid": "sbs::function::const_float2",
+            "node_name": "Float2",
+            "mouse_button": "left",
+            "shortcut_key": "2"
+        },
+        "2|right": {
+            "node_uid": "sbs::function::get_float2",
+            "node_name": "Get Float2",
+            "mouse_button": "right",
+            "shortcut_key": "2"
+        },
+        "3|left": {
+            "node_uid": "sbs::function::const_float3",
+            "node_name": "Float3",
+            "mouse_button": "left",
+            "shortcut_key": "3"
+        },
+        "3|right": {
+            "node_uid": "sbs::function::get_float3",
+            "node_name": "Get Float3",
+            "mouse_button": "right",
+            "shortcut_key": "3"
+        },
+        "4|left": {
+            "node_uid": "sbs::function::const_float4",
+            "node_name": "Float4",
+            "mouse_button": "left",
+            "shortcut_key": "4"
+        },
+        "4|right": {
+            "node_uid": "sbs::function::get_float4",
+            "node_name": "Get Float4",
+            "mouse_button": "right",
+            "shortcut_key": "4"
+        },
+        "F1|left": {
+            "node_uid": "sbs::function::const_int1",
+            "node_name": "Int1",
+            "mouse_button": "left",
+            "shortcut_key": "F1"
+        },
+        "F1|right": {
+            "node_uid": "sbs::function::get_integer1",
+            "node_name": "Get Integer1",
+            "mouse_button": "right",
+            "shortcut_key": "F1"
+        },
+        "F2|left": {
+            "node_uid": "sbs::function::const_int2",
+            "node_name": "Int2",
+            "mouse_button": "left",
+            "shortcut_key": "F2"
+        },
+        "F2|right": {
+            "node_uid": "sbs::function::get_integer2",
+            "node_name": "Get Integer2",
+            "mouse_button": "right",
+            "shortcut_key": "F2"
+        },
+        "F3|left": {
+            "node_uid": "sbs::function::const_int3",
+            "node_name": "Int3",
+            "mouse_button": "left",
+            "shortcut_key": "F3"
+        },
+        "F3|right": {
+            "node_uid": "sbs::function::get_integer3",
+            "node_name": "Get Integer3",
+            "mouse_button": "right",
+            "shortcut_key": "F3"
+        },
+        "F4|left": {
+            "node_uid": "sbs::function::const_int4",
+            "node_name": "Int4",
+            "mouse_button": "left",
+            "shortcut_key": "F4"
+        },
+        "F4|right": {
+            "node_uid": "sbs::function::get_integer4",
+            "node_name": "Get Integer4",
+            "mouse_button": "right",
+            "shortcut_key": "F4"
+        },
+        "F5|left": {
+            "node_uid": "sbs::function::get_integer1",
+            "node_name": "Get Integer1",
+            "mouse_button": "left",
+            "shortcut_key": "F5"
+        },
+        "`|left": {
+            "node_uid": "sbs::function::const_bool",
+            "node_name": "Bool",
+            "mouse_button": "left",
+            "shortcut_key": "`"
+        },
+        "`|right": {
+            "node_uid": "sbs::function::get_bool",
+            "node_name": "Get Bool",
+            "mouse_button": "right",
+            "shortcut_key": "`"
+        },
+        "U|left": {
+            "node_uid": "sbs::compositing::uniform",
+            "node_name": "Uniform color",
+            "mouse_button": "left",
+            "shortcut_key": "U"
+        },
+        "T|left": {
+            "node_uid": "sbs::compositing::transformation",
+            "node_name": "Transformation 2D",
+            "mouse_button": "left",
+            "shortcut_key": "T"
+        },
+        "B|right": {
+            "node_uid": "sbs::compositing::sbscompgraph_instance",
+            "node_name": "blur_hq_grayscale",
+            "instance_url": "pkg:///blur_hq_grayscale?dependency=1299236171",
+            "instance_graph": "blur_hq_grayscale",
+            "instance_pkg": "",
+            "mouse_button": "right",
+            "shortcut_key": "B"
+        },
+        "B|left": {
+            "node_uid": "sbs::compositing::blend",
+            "node_name": "Blend",
+            "mouse_button": "left",
+            "shortcut_key": "B"
+        },
+        "A|left": {
+            "node_uid": "sbs::function::add",
+            "node_name": "Add",
+            "mouse_button": "left",
+            "shortcut_key": "A"
+        },
+        "M|left": {
+            "node_uid": "sbs::function::mul",
+            "node_name": "Mul",
+            "mouse_button": "left",
+            "shortcut_key": "M"
+        },
+        "M|right": {
+            "node_uid": "sbs::function::mulscalar",
+            "node_name": "Mulscalar",
+            "mouse_button": "right",
+            "shortcut_key": "M"
+        },
+        "D|left": {
+            "node_uid": "sbs::function::div",
+            "node_name": "Div",
+            "mouse_button": "left",
+            "shortcut_key": "D"
+        },
+        "S|left": {
+            "node_uid": "sbs::function::sub",
+            "node_name": "Sub",
+            "mouse_button": "left",
+            "shortcut_key": "S"
+        }
+    },
+    "preset_shortcuts": {}
+}

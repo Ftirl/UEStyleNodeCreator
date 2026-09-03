@@ -1,0 +1,10 @@
+{
+  "metadata_format_version": "1",
+  "name": "UE Style Node Creator",
+  "version": "1.0.0",
+  "author": "Fitr",
+  "url": "https://www.artstation.com/ftir",
+  "min_designer_version": "16.0",
+  "platform": "any",
+  "description": "UE-style keyboard shortcut node creation for Substance 3D Designer. Press a shortcut key to enter create mode, then click to place the node."
+}

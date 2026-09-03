@@ -1,0 +1,242 @@
+{
+  "version": 1,
+  "presets": {
+    "Would_space_normal-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Would_space_normal",
+      "kind": "comp_graph"
+    },
+    "Opacity-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Opacity",
+      "order": 1779778816.3670268,
+      "kind": "comp_graph"
+    },
+    "ID-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "ID",
+      "order": 1779778770.8397787,
+      "kind": "comp_graph"
+    },
+    "Curvature-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Curvature",
+      "order": 1779778787.0887885,
+      "kind": "comp_graph"
+    },
+    "Position-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Position",
+      "order": 1779778793.1968539,
+      "kind": "comp_graph"
+    },
+    "Thickness-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Thickness",
+      "order": 1779778798.9243896,
+      "kind": "comp_graph"
+    },
+    "Height-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Height",
+      "order": 1779778804.3545878,
+      "kind": "comp_graph"
+    },
+    "Bent_Normals-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Bent_Normals",
+      "kind": "comp_graph"
+    },
+    "Normal-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Normal",
+      "order": 1779780903.2730088,
+      "kind": "comp_graph"
+    },
+    "Base_Color-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Base_Color",
+      "kind": "comp_graph"
+    },
+    "Anisotropy_Angle-SP_Layermap": {
+      "display_name": "Anisotropy_Angle",
+      "group": "SP_Layermap",
+      "order": 1779781036.3738391,
+      "kind": "comp_graph"
+    },
+    "Anisotropy_Level-SP_Layermap": {
+      "display_name": "Anisotropy_Level",
+      "group": "SP_Layermap",
+      "order": 1779781038.193453,
+      "kind": "comp_graph"
+    },
+    "Specular_Level-SP_Layermap": {
+      "display_name": "Specular_Level",
+      "group": "SP_Layermap",
+      "order": 1779781039.8478951,
+      "kind": "comp_graph"
+    },
+    "Roughness-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Roughness",
+      "order": 1779780964.2979276,
+      "kind": "comp_graph"
+    },
+    "Metallic-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Metallic",
+      "order": 1779780969.8975828,
+      "kind": "comp_graph"
+    },
+    "Height-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Height",
+      "order": 1779780975.329405,
+      "kind": "comp_graph"
+    },
+    "Normal-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Normal",
+      "order": 1779780980.5858543,
+      "kind": "comp_graph"
+    },
+    "Opacity-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Opacity",
+      "order": 1779780985.4095087,
+      "kind": "comp_graph"
+    },
+    "Emissive-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Emissive",
+      "order": 1779780991.262787,
+      "kind": "comp_graph"
+    },
+    "Specular-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Specular",
+      "order": 1779780997.6652956,
+      "kind": "comp_graph"
+    },
+    "Reflection-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Reflection",
+      "order": 1779781008.5519488,
+      "kind": "comp_graph"
+    },
+    "Glossiness-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Glossiness",
+      "order": 1779781013.4490223,
+      "kind": "comp_graph"
+    },
+    "IOR-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "IOR",
+      "order": 1779781018.166735,
+      "kind": "comp_graph"
+    },
+    "Ambient_occlusion-SP_Backmap": {
+      "group": "SP_Backmap",
+      "display_name": "Ambient_occlusion",
+      "order": 1779781066.6939015,
+      "kind": "comp_graph"
+    },
+    "Ambient_Occlusion-SP_Layermap": {
+      "display_name": "Ambient_Occlusion",
+      "group": "SP_Layermap",
+      "order": 1779781198.3538039,
+      "kind": "comp_graph"
+    },
+    "Blending_Mask-SP_Layermap": {
+      "display_name": "Blending_Mask",
+      "group": "SP_Layermap",
+      "order": 1779781200.0633597,
+      "kind": "comp_graph"
+    },
+    "User_0-SP_Layermap": {
+      "display_name": "User_0",
+      "group": "SP_Layermap",
+      "order": 1779781201.728121,
+      "kind": "comp_graph"
+    },
+    "User_1-SP_Layermap": {
+      "display_name": "User_1",
+      "group": "SP_Layermap",
+      "order": 1779781203.327046,
+      "kind": "comp_graph"
+    },
+    "User_2-SP_Layermap": {
+      "display_name": "User_2",
+      "group": "SP_Layermap",
+      "order": 1779781204.8990996,
+      "kind": "comp_graph"
+    },
+    "User_3-SP_Layermap": {
+      "display_name": "User_3",
+      "group": "SP_Layermap",
+      "order": 1779781206.2632391,
+      "kind": "comp_graph"
+    },
+    "User_4-SP_Layermap": {
+      "display_name": "User_4",
+      "group": "SP_Layermap",
+      "order": 1779781207.8185823,
+      "kind": "comp_graph"
+    },
+    "User_5-SP_Layermap": {
+      "display_name": "User_5",
+      "group": "SP_Layermap",
+      "order": 1779781209.2448895,
+      "kind": "comp_graph"
+    },
+    "User_6-SP_Layermap": {
+      "display_name": "User_6",
+      "group": "SP_Layermap",
+      "order": 1779781210.7486858,
+      "kind": "comp_graph"
+    },
+    "User_7-SP_Layermap": {
+      "display_name": "User_7",
+      "group": "SP_Layermap",
+      "order": 1779781212.228736,
+      "kind": "comp_graph"
+    },
+    "User_8-SP_Layermap": {
+      "display_name": "User_8",
+      "group": "SP_Layermap",
+      "order": 1779781213.6007292,
+      "kind": "comp_graph"
+    },
+    "User_9-SP_Layermap": {
+      "display_name": "User_9",
+      "group": "SP_Layermap",
+      "order": 1779781214.9908824,
+      "kind": "comp_graph"
+    },
+    "Scattering-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Scattering",
+      "order": 1779781107.0093856,
+      "kind": "comp_graph"
+    },
+    "Displacement-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Displacement",
+      "order": 1779781119.1687016,
+      "kind": "comp_graph"
+    },
+    "Diffuse-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Diffuse",
+      "order": 1779781124.6675887,
+      "kind": "comp_graph"
+    },
+    "Transmissive-SP_Layermap": {
+      "group": "SP_Layermap",
+      "display_name": "Transmissive",
+      "order": 1779781129.2904747,
+      "kind": "comp_graph"
+    }
+  }
+}
