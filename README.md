@@ -1,3 +1,5 @@
+![UE Style Node Creator UI](docs/images/ue-style-node-creator-ui.png)
+
 # UE Style Node Creator
 
 面向 Adobe Substance 3D Designer 的 UE 风格快捷节点创建插件。按住键盘快捷键进入创建状态，再在 Graph View 中用左键或右键放置单节点或整组节点预设。
